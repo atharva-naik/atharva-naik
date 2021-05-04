@@ -13,10 +13,12 @@
   <i>.</i><br>
   :diamonds::diamonds::diamonds:<br>
 <b>Enthusiastic about NLP research.</b><br>
-  <i>Have a [conference publication](https://arxiv.org/abs/2008.09035). Working on more</i><br>
+  <i>Have an upcoming <a href="https://arxiv.org/abs/2008.09035">Conference Publication</a>. Working on some interesting ideas in dialogue, NLI and hate speeh detection.</i><br>
     :diamonds::diamonds::diamonds:<br>
-  <b>Always an evolving learner.</b><br>
-  <i>Currently, making peace with Node.js.</i><br><br>
+<b>Experienced in web-scraping and automation.</b><br>
+  <i>Have written several automation scripts for login, scraping and posting on several social media platforms like twitter, YouTube, Quora, Facebook etc.</i><br><br>
+<b>Trying to learn more about GUI programming for desktop application !</b><br>
+  <i>Working on simple tkinter based GUIs. Working on custom classes to handle custom fonts and create new widgets and to <b>make Tkinter look good</b> 😅.</i><br><br>
 </p>
 
 <!-- <p align="center">
@@ -27,8 +29,6 @@
  :heavy_check_mark: I am always open to work on new projects. 
   
   </p> -->
-
-
 <details align="center">
   <summary>Github Stats :octocat:</summary>
 
@@ -39,7 +39,6 @@
   Do check my repositories out! Let's discuss if anything interests you. :smile: <br>
   Thank you for dropping by!
   </p> -->
-
 <p align="center">
 <img alt="Hopefully we can collaborate on a great project :)" src="https://media.giphy.com/media/WQOFQXuVEZ90MtDdsx/giphy.gif" width="200px">
 </p>
