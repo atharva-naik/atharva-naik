@@ -31,15 +31,16 @@
   <summary>My Github Statistics :octocat:</summary>
 
   <img alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=atharva-naik&show_icons=true&hide_border=true&theme=vue" />
-  <a href="https://atharva-naik.github.io/">My old website</a>(to be replaced pretty soon)
 </details>
+  <a align="center" href="https://atharva-naik.github.io/">My old website (to be replaced pretty soon)</a>
 <!-- <p align="center">
   Do check my repositories out! Let's discuss if anything interests you. :smile: <br>
   Thank you for dropping by!
   </p> -->
 <p align="center">
-<img alt="Hopefully we can collaborate on a great project :)" src="https://media.tenor.com/images/4a37815ddbf2e92d8f082ca3a0aa02fb/tenor.gif" width="200px">
+<img alt="" src="https://media.tenor.com/images/4a37815ddbf2e92d8f082ca3a0aa02fb/tenor.gif" width="200px">
 </p>
+<h4 align="center" font-size:4em"> Hopefully we can collaborate on a great project :) </h4>
 
 <p align="center">
 <img alt="Visitor Count" src="https://profile-counter.glitch.me/atharva-naik/count.svg">
