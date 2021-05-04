@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="Have a good day!" src="https://media.giphy.com/media/USnLRDIiBdQ6X0qMjS/giphy.gif" width="50px">
+<img alt="Have a good day!" src="https://tenor.com/view/mario-pipe-byebye-gif-5530137" width="50px">
 </p>
 <h4 align="center" font-size:4em"> Hey there, it's a me </h4>
 <h1 align="center" font-size:8em"> Atharva </h1>
