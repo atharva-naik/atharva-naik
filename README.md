@@ -12,7 +12,7 @@
   <b>NLP and Python nut</b><br>
   :diamonds::diamonds::diamonds:<br>
 <b>Enthusiastic about NLP research.</b><br>
-  <i>Have an upcoming <a href="https://arxiv.org/abs/2008.09035">Conference Publication</a>. Working on some interesting ideas in dialogue, NLI and hate speeh detection</i><br>
+  <i>Have an upcoming <a href="https://arxiv.org/abs/2008.09035">Conference Publication</a>. Working on some interesting ideas in dialogue, NLI and hate speech detection</i><br>
     :diamonds::diamonds::diamonds:<br>
 <b>Interested in web-scraping and automation</b><br>
   <i>Have written several automation scripts for login, scraping and posting on several social media platforms like twitter, YouTube, Quora, Facebook etc.</i><br>
