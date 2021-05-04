@@ -17,30 +17,28 @@
     :diamonds::diamonds::diamonds:<br>
 <b>Experienced in web-scraping and automation.</b><br>
   <i>Have written several automation scripts for login, scraping and posting on several social media platforms like twitter, YouTube, Quora, Facebook etc.</i><br><br>
-<b>Trying to learn more about GUI programming for desktop application !</b><br>
-  <i>Working on simple tkinter based GUIs. Working on custom classes to handle custom fonts and create new widgets and to <b>make Tkinter look good</b> 😅.</i><br><br>
+<b>Trying to learn more about GUI programming for desktop applications !</b><br>
+  <summary><i>Working on simple tkinter based GUIs. Working on custom classes to handle custom fonts and create new widgets and to <b>make Tkinter look good</b> 😅.</i></summary><br><br>
 </p>
-
 <!-- <p align="center">
 :scroll:  Here's my latest blog: <a href="https://medium.com/@kashish_121/go-green-featuring-github-f8750fbf0729"> GO GREEN feturing GITHUB </a><br>
   <i>Consider giving a clap :smile:.</i><br>
   :book: Incessantly in love with books. Current read: <a href="https://en.wikipedia.org/wiki/Lolita">Lolita</a><br>
  :construction: Cynosure repository these days: <a href="https://github.com/kashish121/PortScanner/">Port Scanner</a><br><br>
  :heavy_check_mark: I am always open to work on new projects. 
-  
   </p> -->
 <details align="center">
-  <summary>Github Stats :octocat:</summary>
+  <summary>My Github Statistics :octocat:</summary>
 
   <img alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=atharva-naik&show_icons=true&hide_border=true&theme=vue" />
-
+  <a href="https://atharva-naik.github.io/">My old website</a>(to be replaced pretty soon)
 </details>
 <!-- <p align="center">
   Do check my repositories out! Let's discuss if anything interests you. :smile: <br>
   Thank you for dropping by!
   </p> -->
 <p align="center">
-<img alt="Hopefully we can collaborate on a great project :)" src="https://media.giphy.com/media/WQOFQXuVEZ90MtDdsx/giphy.gif" width="200px">
+<img alt="Hopefully we can collaborate on a great project :)" src="https://media.tenor.com/images/4a37815ddbf2e92d8f082ca3a0aa02fb/tenor.gif" width="200px">
 </p>
 
 <p align="center">
