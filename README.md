@@ -16,9 +16,10 @@
   <i>Have an upcoming <a href="https://arxiv.org/abs/2008.09035">Conference Publication</a>. Working on some interesting ideas in dialogue, NLI and hate speeh detection.</i><br>
     :diamonds::diamonds::diamonds:<br>
 <b>Experienced in web-scraping and automation.</b><br>
-  <i>Have written several automation scripts for login, scraping and posting on several social media platforms like twitter, YouTube, Quora, Facebook etc.</i><br><br>
+  <i>Have written several automation scripts for login, scraping and posting on several social media platforms like twitter, YouTube, Quora, Facebook etc.</i><br>
+  :diamonds::diamonds::diamonds:<br>
 <b>Trying to learn more about GUI programming for desktop applications !</b><br>
-  <summary><i>Working on simple tkinter based GUIs. Working on custom classes to handle custom fonts and create new widgets and to <b>make Tkinter look good</b> 😅.</i></summary><br><br>
+  <i>Working on simple tkinter based GUIs. Working on custom classes to handle custom fonts and create new widgets and to <b>make Tkinter look good</b> 😅.</i><br><br>
 </p>
 <!-- <p align="center">
 :scroll:  Here's my latest blog: <a href="https://medium.com/@kashish_121/go-green-featuring-github-f8750fbf0729"> GO GREEN feturing GITHUB </a><br>
