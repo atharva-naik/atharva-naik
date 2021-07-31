@@ -30,9 +30,9 @@
 <details align="center">
   <summary>My Github Statistics :octocat:</summary>
 
-  <img alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=atharva-naik&show_icons=true&hide_border=true&theme=vue" />
+  <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=atharva-naik&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
 </details>
-  <a align="center" href="https://atharva-naik.github.io/">My old website (to be replaced pretty soon)</a>
+<!--   <a align="center" href="https://atharva-naik.github.io/">My old website (to be replaced pretty soon)</a> -->
 <!-- <p align="center">
   Do check my repositories out! Let's discuss if anything interests you. :smile: <br>
   Thank you for dropping by!
