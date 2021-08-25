@@ -14,11 +14,14 @@
 <b>Enthusiastic about NLP research.</b><br>
   <i>Have an upcoming <a href="https://arxiv.org/abs/2008.09035">Conference Publication</a>. Working on some interesting ideas in dialogue, NLI and hate speech detection</i><br>
     :diamonds::diamonds::diamonds:<br>
-<b>Interested in web-scraping and automation</b><br>
-  <i>Have written several automation scripts for login, scraping and posting on several social media platforms like twitter, YouTube, Quora, Facebook etc.</i><br>
+<b>Working on problems in explainability, dialogue and NLI </b><br>
+  <i>Highly interested in dialogue generation, story generation, narrative generation ([Lot of Mark Riedl's work](https://scholar.google.co.in/citations?user=Yg_QjxcAAAAJ&hl=en)). Working on Multi Lingual dialogue as my BTech project. I have also worked on explainability in NLI, and am interested in the intersection between the newly emergent field of dialogue NLI (ensuring consistency between a defined agent persona and generated dialogue). </i><br>
+  :diamonds::diamonds::diamonds:<br>
+<b>I also enjoy working on automation and scraping scripts </b><br>
+  <i>Have written several automation scripts using Selenium (python) for login, scraping and posting on social media platforms like twitter, YouTube, Quora, Facebook etc.</i><br>
   :diamonds::diamonds::diamonds:<br>
 <b>Trying to learn more about GUI programming for desktop applications !</b><br>
-  <i>Have self learned tkinter and am in the process of matering PyQt5. Creating AI powered GUI applications as hobby projects.</i><br><br>
+  <i>Familiar with tkinter and PyQt5. Working on an electron like framework for python in my free time. Based on cefpython3 (python bindings of CEF(Chromium Embedded Framework)). Aim is to improve over eel (an electron like framework that allows communication with Javascript), by auto generation of html and styling, allowing better integration with Javascript, writing wrappers over popular plugins (pdf.js, video.js, quill.js, codemirror etc.), tighter integration with brython (frontend programming in python), and allowing use of python to programatically generate css effects (like sass). </i><br><br>
 </p>
 <!-- <p align="center">
 :scroll:  Here's my latest blog: <a href="https://medium.com/@kashish_121/go-green-featuring-github-f8750fbf0729"> GO GREEN feturing GITHUB </a><br>
