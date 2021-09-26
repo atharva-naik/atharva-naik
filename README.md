@@ -12,7 +12,7 @@
   <b>NLP and Python nut</b><br>
   :diamonds::diamonds::diamonds:<br>
 <b>Enthusiastic about NLP research.</b><br>
-  <i>Have an upcoming <a href="https://arxiv.org/abs/2008.09035">Conference Publication</a>. Working on some interesting ideas in dialogue, NLI and hate speech detection</i><br>
+  <i>My area of focus is explainability, dialogue, NLI and generation. I am currently working on interesting research ideas in interpretability and dialogue research</i><br>
     :diamonds::diamonds::diamonds:<br>
 <b>Working on problems in explainability, dialogue and NLI </b><br>
   <i>Highly interested in dialogue generation, story generation, narrative generation ([Lot of Mark Riedl's work](https://scholar.google.co.in/citations?user=Yg_QjxcAAAAJ&hl=en)). Working on Multi Lingual dialogue as my BTech project. I have also worked on explainability in NLI, and am interested in the intersection between the newly emergent field of dialogue NLI (ensuring consistency between a defined agent persona and generated dialogue). </i><br>
