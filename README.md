@@ -20,9 +20,9 @@
 <b>I also enjoy working on automation and scraping scripts </b><br>
   <i>Have written several automation scripts using Selenium (python) for login, scraping and posting on social media platforms like twitter, YouTube, Quora, Facebook etc.</i><br>
   :diamonds::diamonds::diamonds:<br>
-<b>Trying to learn more about GUI programming for desktop applications !</b><br>
-  <i>Familiar with tkinter and PyQt5. Working on an electron like framework for python in my free time. Based on cefpython3 (python bindings of CEF(Chromium Embedded Framework)). Aim is to improve over eel (an electron like framework that allows communication with Javascript), by auto generation of html and styling, allowing better integration with Javascript, writing wrappers over popular plugins (pdf.js, video.js, quill.js, bootstrap, codemirror etc.), tighter integration with brython (frontend programming in python), and allowing use of python to programatically generate css effects (like sass). </i><br><br>
-</p>
+<!-- <b>And creating useless desktop applications with Python :|</b><br>
+  <i>Familiar with tkinter, PyQt5 and cefpython. Some experience of working with. Working on an electron like framework for python in my free time. Based on cefpython3 (python bindings of CEF(Chromium Embedded Framework)). Aim is to improve over eel (an electron like framework that allows communication with Javascript), by auto generation of html and styling, allowing better integration with Javascript, writing wrappers over popular plugins (pdf.js, video.js, quill.js, bootstrap, codemirror etc.), tighter integration with brython (frontend programming in python), and allowing use of python to programatically generate css effects (like sass). </i><br><br>
+</p> -->
 <!-- <p align="center">
 :scroll:  Here's my latest blog: <a href="https://medium.com/@kashish_121/go-green-featuring-github-f8750fbf0729"> GO GREEN feturing GITHUB </a><br>
   <i>Consider giving a clap :smile:.</i><br>
