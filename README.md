@@ -9,7 +9,7 @@
 <hr>
 
 <p align="center">
-  <b>NLP and Python nut</b><br>
+  <b>NLP and Python ❤️</b><br>
   :diamonds::diamonds::diamonds:<br>
 <b>Enthusiastic about NLP research.</b><br>
   <i>My area of focus is explainability, dialogue, NLI and generation. I am currently working on interesting research ideas in interpretability and dialogue research</i><br>
